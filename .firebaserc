@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "dashboard-fa211"
+    "default": "dashboard-fa211",
+    "staging": "dashboard-fa211"
   }
 }
